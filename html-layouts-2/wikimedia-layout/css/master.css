@@ -1,0 +1,38 @@
+body, html {
+  margin-left: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.intro {
+  text-align: justify;
+  vertical-align: top;
+  width: 70%;
+  font-size: 20px;
+  line-height: 29px;
+  margin: 0 auto;
+  padding: .5em 1em;
+}
+.strong {
+  font-weight: bold;
+}
+.intro p:last-child {
+  text-align: right;
+}
+.picscontainer {
+  width: 70%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.pedia {
+    float: left;
+    margin: 1%;
+    width: calc(25% - 20px);
+    min-width: 135px;
+}
+img {
+  max-width: 135px;
+  max-height: 135px;
+}
+a {
+  text-decoration: none;
+}
