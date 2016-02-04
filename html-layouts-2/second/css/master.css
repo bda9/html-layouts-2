@@ -1,0 +1,79 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #D8D8D8;
+  font-family: helvetica;
+}
+header {
+  width: 848px;
+  height: 383px;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+}
+p {
+
+  font-size: 24px;
+  vertical-align: middle;
+  text-align: justify;
+  padding: 45px;
+}
+.divider {
+    width:26px;
+    height:auto;
+    display:inline-block;
+}
+.clickred {
+  background-color: #D0021B;
+  text-align: center;
+  font-size: 32px;
+  color: white;
+  height: 73px;
+  width: 181px;
+}
+.clickblue {
+  background-color: #4A90E2;
+  text-align: center;
+  font-size: 32px;
+  color: white;
+  height: 73px;
+  width: 181px;
+}
+.section {
+  position: relative;
+  background-color: #FFFFFF;
+  width: 848px;
+  height: 864px;
+  margin: 40px auto;
+  padding-top: 10px;
+}
+.imageholder {
+  background-color: #4A4A4A;
+  height: 428px;
+  width: 762px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.imageholder p {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 146px;
+  font-size: 48px;
+}
+.foote {
+  margin: 0 auto;
+  background-color: #333333;
+  height: 80px;
+  width: 1048px;
+  display: table;
+}
+a {
+  background-color: #333333;
+  font-size: 26px;
+  color: white;
+  height: 73px;
+  width: 181px;
+  text-decoration: none;
+  display: table-cell;
+  vertical-align: middle;
+}

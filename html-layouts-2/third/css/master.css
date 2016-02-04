@@ -1,0 +1,88 @@
+body, html {
+  margin-left: 3px;
+  padding: 0;
+  font-family: helvetica;
+}
+
+p {
+  font-size: 18px;
+  vertical-align: middle;
+  text-align: justify;
+  padding-left: 45px;
+}
+h1 {
+  font-size: 52px;
+  color: #4A4A4A;
+  vertical-align: middle;
+  text-align: justify;
+  padding-left: 45px;
+}
+.nav {
+  position:relative;
+  background-color: #333333;
+  height: 100px;
+  width: 1000px;
+  display: table;
+  padding-left: 30px;
+}
+.divider {
+    width:26px;
+    height:auto;
+    display:inline-block;
+}
+.spacer {
+  height:100px;
+  width:auto;
+  display:inline-block;
+}
+.container {
+    display: table
+}
+.left, .right {
+    display: table-cell
+}
+.left {
+    width: 500px;
+    background: #FFFFFF;
+}
+.right {
+    background: #FFFFFF;
+    width: 550px;
+}
+.section {
+  position: relative;
+  background-color: #FFFFFF;
+  width: 848px;
+  height: 864px;
+  margin: 40px auto;
+  padding-top: 10px;
+}
+.imageholder {
+  background-color: #D8D8D8;
+  height: 340px;
+  width: 445px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.imageholder p {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 146px;
+  font-size: 48px;
+}
+.foote {
+  background-color: #333333;
+  height: 100px;
+  width: 1000px;
+}
+a {
+  background-color: #333333;
+  font-size: 26px;
+  color: white;
+  height: 73px;
+  width: 181px;
+  text-decoration: none;
+  display: table-cell;
+  vertical-align: middle;
+}
